@@ -1,0 +1,4 @@
+baseURL = "https://blog.iamsee.com/"
+languageCode = "zh-cn"
+title = "iamsee'blog"
+theme = "hugo-theme-yinyang"
